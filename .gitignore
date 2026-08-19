@@ -1,0 +1,25 @@
+# Virtual environments
+fenv/
+myenv/
+env/
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Environment/secrets
+.env
+.env.*
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+firebase_credentials.json
+market/templates/*firebase-adminsdk*.json
+**/*firebase*.json
+**/*credentials*.json
