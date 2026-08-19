@@ -1,0 +1,11 @@
+Flask
+Flask-Login
+Flask-SQLAlchemy
+Flask-Bcrypt
+Flask-Mail
+Flask-WTF
+WTForms
+Flask-Limiter
+itsdangerous
+Werkzeug
+serverless-wsgi

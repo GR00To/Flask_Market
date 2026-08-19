@@ -23,3 +23,9 @@ firebase_credentials.json
 market/templates/*firebase-adminsdk*.json
 **/*firebase*.json
 **/*credentials*.json
+
+# Deployment Build Artifacts
+function.zip
+lambda_flask/
+out.json
+
