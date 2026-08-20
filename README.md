@@ -13,13 +13,6 @@ It is also optimized for serverless deployment on **AWS Lambda** & **AWS API Gat
 
 ---
 
-## 🖼️ Screenshots
-
-| Home Page | Marketplace Dashboard |
-| :---: | :---: |
-| ![Flask Market Home](docs/screenshots/home_preview.png) | ![Flask Market Marketplace](docs/screenshots/marketplace_preview.png) |
-
----
 
 ## ✨ Features
 
